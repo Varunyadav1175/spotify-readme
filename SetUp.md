@@ -10,7 +10,7 @@
 * In **Redirect URIs**:
     * Add `http://localhost/callback/`
 
-## Refresh Token
+## Refresh Tokens
 
 * Navigate to the following URL:
 
